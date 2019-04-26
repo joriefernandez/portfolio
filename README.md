@@ -1,11 +1,15 @@
 # portfolio
 
-Number and name of feature: ________________________________
+Created portfolio using the provided template.
 
-Estimate of time needed to complete: _____
+Number and name of feature:
+1. Refactored CSS
+2. Modified content
 
-Start time: _____
+Estimate of time needed to complete: 4 hours
 
-Finish time: _____
+Start time: 9:00 am
 
-Actual time needed to complete: _____
+Finish time: 12:00 pm
+
+Actual time needed to complete: 3 hours
