@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 Created portfolio using the provided template.
 
