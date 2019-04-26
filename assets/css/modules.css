@@ -405,7 +405,7 @@ margin: 0 0 0 0.5em;
     }
 
     #main > section.dark strong {
-      color: #fff;
+      color: lightcoral;
       border-color: inherit;
     }
 
@@ -425,8 +425,10 @@ margin: 0 0 0 0.5em;
   }
 
   #main > section.one {
-    background-color: #81918E;
-    background-image: url("../../images/banner.jpg");
+		/* background-image: linear-gradient(linen); */
+		background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/04/10/75/5058185fb15c0ae.jpg);
+		color: green;
+		font-weight: bolder;
   }
 
   #main > section.two {
