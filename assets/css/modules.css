@@ -1,3 +1,6 @@
+@import url("font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+
 section > :last-child,
 		section > .container, section:last-child, article > :last-child,
 		article > .container, article:last-child {
@@ -425,10 +428,10 @@ margin: 0 0 0 0.5em;
   }
 
   #main > section.one {
-		/* background-image: linear-gradient(linen); */
 		background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/04/10/75/5058185fb15c0ae.jpg);
 		color: green;
 		font-weight: bolder;
+		font-family: 'Averia Serif Libre', cursive;
   }
 
   #main > section.two {
